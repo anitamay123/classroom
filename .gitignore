@@ -1,0 +1,5 @@
+packages.config
+bin/Debug/ClassWork.dll
+bin/
+obj/
+packages/
